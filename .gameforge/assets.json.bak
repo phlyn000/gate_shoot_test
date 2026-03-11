@@ -1,0 +1,369 @@
+{
+  "assets": {
+    "31llwoel": {
+      "id": "31llwoel",
+      "localPath": "assets/characters/char_soldier_blue.png",
+      "contentHash": "3baa1626000bbd34",
+      "originHash": "3baa1626000bbd34",
+      "name": "蓝帽小兵",
+      "description": "【风格】Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）\n\n【尺寸】1024x1024\n\n【背景】透明背景\n\n【描述】【主体】可爱的蓝色头盔士兵，蓝色制服，手持小枪，待机姿势。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly）。【强制约束】MUST be on pure white #FFFFFF background. Single character ONLY. Absolutely NO background scene, NO environment, NO props, NO shadows. Full body, centered, clear edges for extraction.",
+      "createdAt": 1773215424,
+      "versions": [
+        {
+          "op": "generate",
+          "style": "Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）",
+          "description": "【主体】可爱的蓝色头盔士兵，蓝色制服，手持小枪，待机姿势。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly）。【强制约束】MUST be on pure white #FFFFFF background. Single character ONLY. Absolutely NO background scene, NO environment, NO props, NO shadows. Full body, centered, clear edges for extraction.",
+          "cleanResource": true,
+          "model": "workflow",
+          "size": "1k-square",
+          "transparent": true,
+          "url": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/a7d01dd5-e692-4244-b9e0-54f51e8ac60e_9057ecf2-b023-4182-aa2a-fa11ad6050e2_ComfyUI_temp_kfnuq_00100_.png",
+          "t": 1773215424
+        }
+      ],
+      "currentVersionIndex": 0,
+      "config": {
+        "currentUrl": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/a7d01dd5-e692-4244-b9e0-54f51e8ac60e_9057ecf2-b023-4182-aa2a-fa11ad6050e2_ComfyUI_temp_kfnuq_00100_.png"
+      }
+    },
+    "kd1dl71x": {
+      "id": "kd1dl71x",
+      "localPath": "assets/characters/char_enemy_minion_red.png",
+      "contentHash": "5cc424ea000b8d43",
+      "originHash": "5cc424ea000b8d43",
+      "name": "红帽小兵",
+      "description": "【风格】Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）\n\n【尺寸】1024x1024\n\n【背景】透明背景\n\n【描述】【主体】红色头盔敌方士兵，红色制服，愤怒表情。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly）。【强制约束】MUST be on pure white #FFFFFF background. Single character ONLY. Absolutely NO background scene, NO environment, NO props, NO shadows. Full body, centered, clear edges for extraction.",
+      "createdAt": 1773215424,
+      "versions": [
+        {
+          "op": "generate",
+          "style": "Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）",
+          "description": "【主体】红色头盔敌方士兵，红色制服，愤怒表情。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly）。【强制约束】MUST be on pure white #FFFFFF background. Single character ONLY. Absolutely NO background scene, NO environment, NO props, NO shadows. Full body, centered, clear edges for extraction.",
+          "cleanResource": true,
+          "model": "workflow",
+          "size": "1k-square",
+          "transparent": true,
+          "url": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/ba0a7d32-cd28-4347-af4e-43c91468edc0_673b01ec-89b0-4907-b62f-8371437eec45_ComfyUI_temp_kfnuq_00110_.png",
+          "t": 1773215424
+        }
+      ],
+      "currentVersionIndex": 0,
+      "config": {
+        "currentUrl": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/ba0a7d32-cd28-4347-af4e-43c91468edc0_673b01ec-89b0-4907-b62f-8371437eec45_ComfyUI_temp_kfnuq_00110_.png"
+      }
+    },
+    "8hkymfdr": {
+      "id": "8hkymfdr",
+      "localPath": "assets/characters/char_enemy_boss_tank.png",
+      "contentHash": "f3f1bcb90011c20c",
+      "originHash": "f3f1bcb90011c20c",
+      "name": "巨型坦克",
+      "description": "【风格】Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）\n\n【尺寸】1024x1024\n\n【背景】透明背景\n\n【描述】【主体】巨型科幻坦克，蓝银色装甲，双炮管，威慑感。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly）。【强制约束】MUST be on pure white #FFFFFF background. Single character ONLY. Absolutely NO background scene, NO environment, NO props, NO shadows. Full body, centered, clear edges for extraction.",
+      "createdAt": 1773215425,
+      "versions": [
+        {
+          "op": "generate",
+          "style": "Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）",
+          "description": "【主体】巨型科幻坦克，蓝银色装甲，双炮管，威慑感。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly）。【强制约束】MUST be on pure white #FFFFFF background. Single character ONLY. Absolutely NO background scene, NO environment, NO props, NO shadows. Full body, centered, clear edges for extraction.",
+          "cleanResource": true,
+          "model": "workflow",
+          "size": "1k-square",
+          "transparent": true,
+          "url": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/b2b14fed-8a73-4896-bcfd-c32460ccee9f_e4c01bae-9331-42cf-9194-a23609ad5583_ComfyUI_temp_kfnuq_00107_.png",
+          "t": 1773215425
+        }
+      ],
+      "currentVersionIndex": 0,
+      "config": {
+        "currentUrl": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/b2b14fed-8a73-4896-bcfd-c32460ccee9f_e4c01bae-9331-42cf-9194-a23609ad5583_ComfyUI_temp_kfnuq_00107_.png"
+      }
+    },
+    "0b4wtc2t": {
+      "id": "0b4wtc2t",
+      "localPath": "assets/characters/char_enemy_boss_giant.png",
+      "contentHash": "f2ce0dd9000f2436",
+      "originHash": "f2ce0dd9000f2436",
+      "name": "肌肉巨人",
+      "description": "【风格】Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）\n\n【尺寸】1024x1024\n\n【背景】透明背景\n\n【描述】【主体】红色背心的肌肉巨人，愤怒表情，巨大体型。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly）。【强制约束】MUST be on pure white #FFFFFF background. Single character ONLY. Absolutely NO background scene, NO environment, NO props, NO shadows. Full body, centered, clear edges for extraction.",
+      "createdAt": 1773215425,
+      "versions": [
+        {
+          "op": "generate",
+          "style": "Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）",
+          "description": "【主体】红色背心的肌肉巨人，愤怒表情，巨大体型。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly）。【强制约束】MUST be on pure white #FFFFFF background. Single character ONLY. Absolutely NO background scene, NO environment, NO props, NO shadows. Full body, centered, clear edges for extraction.",
+          "cleanResource": true,
+          "model": "workflow",
+          "size": "1k-square",
+          "transparent": true,
+          "url": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/1d2dea15-a6be-441b-a92b-be384d4401be_9e60e78d-959e-4bf5-81f4-922f9827dbba_ComfyUI_temp_kfnuq_00108_.png",
+          "t": 1773215425
+        }
+      ],
+      "currentVersionIndex": 0,
+      "config": {
+        "currentUrl": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/1d2dea15-a6be-441b-a92b-be384d4401be_9e60e78d-959e-4bf5-81f4-922f9827dbba_ComfyUI_temp_kfnuq_00108_.png"
+      }
+    },
+    "odwxl5v8": {
+      "id": "odwxl5v8",
+      "localPath": "assets/backgrounds/bg_main.jpg",
+      "contentHash": "3013e6660009a180",
+      "originHash": "3013e6660009a180",
+      "name": "主玩法大桥背景",
+      "description": "【风格】Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）\n\n【尺寸】768x1376\n\n【背景】非透明\n\n【描述】【场景】跨海大桥路面，无尽的柏油公路，背景为蓝色大海。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly），俯视视角。【约束】Game background, pure environment ONLY. NO borders, NO UI elements, NO people, NO characters, NO text, NO floating icons.",
+      "createdAt": 1773215425,
+      "versions": [
+        {
+          "op": "generate",
+          "style": "Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）",
+          "description": "【场景】跨海大桥路面，无尽的柏油公路，背景为蓝色大海。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly），俯视视角。【约束】Game background, pure environment ONLY. NO borders, NO UI elements, NO people, NO characters, NO text, NO floating icons.",
+          "cleanResource": true,
+          "model": "workflow",
+          "size": "1k-portrait",
+          "transparent": false,
+          "url": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/295ddeb9-46cf-416e-9469-3d6329d84f0e_gemini_552b1f5e-5cfa-4323-b488-76bc59696292.jpg",
+          "t": 1773215425
+        }
+      ],
+      "currentVersionIndex": 0,
+      "config": {
+        "currentUrl": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/295ddeb9-46cf-416e-9469-3d6329d84f0e_gemini_552b1f5e-5cfa-4323-b488-76bc59696292.jpg"
+      }
+    },
+    "gecr3xm2": {
+      "id": "gecr3xm2",
+      "localPath": "assets/icons/icon_gate_plus.png",
+      "contentHash": "75027e92000c2f8d",
+      "originHash": "75027e92000c2f8d",
+      "name": "蓝色加法门",
+      "description": "【风格】Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）\n\n【尺寸】1024x1024\n\n【背景】透明背景\n\n【描述】【主体】蓝色发光矩形门，科技感框架，中间留白。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly）。【强制约束】MUST be on pure white #FFFFFF background. Single icon ONLY. Absolutely NO background scene, NO environment, NO shadows, NO text. Centered, clear edges for extraction.",
+      "createdAt": 1773215426,
+      "versions": [
+        {
+          "op": "generate",
+          "style": "Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）",
+          "description": "【主体】蓝色发光矩形门，科技感框架，中间留白。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly）。【强制约束】MUST be on pure white #FFFFFF background. Single icon ONLY. Absolutely NO background scene, NO environment, NO shadows, NO text. Centered, clear edges for extraction.",
+          "cleanResource": true,
+          "model": "workflow",
+          "size": "1k-square",
+          "transparent": true,
+          "url": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/940d9731-c7b8-46c5-b305-bbbf9578aa15_91b0a598-feb2-4c14-b900-a24f90ad5778_ComfyUI_temp_kfnuq_00101_.png",
+          "t": 1773215426
+        }
+      ],
+      "currentVersionIndex": 0,
+      "config": {
+        "currentUrl": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/940d9731-c7b8-46c5-b305-bbbf9578aa15_91b0a598-feb2-4c14-b900-a24f90ad5778_ComfyUI_temp_kfnuq_00101_.png"
+      }
+    },
+    "q8r0uh37": {
+      "id": "q8r0uh37",
+      "localPath": "assets/icons/icon_gate_minus.png",
+      "contentHash": "2df6decb00115b91",
+      "originHash": "2df6decb00115b91",
+      "name": "红色减号门",
+      "description": "【风格】Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）\n\n【尺寸】1024x1024\n\n【背景】透明背景\n\n【描述】【主体】红色发光矩形门，科技感框架，中间留白。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly）。【强制约束】MUST be on pure white #FFFFFF background. Single icon ONLY. Absolutely NO background scene, NO environment, NO shadows, NO text. Centered, clear edges for extraction.",
+      "createdAt": 1773215426,
+      "versions": [
+        {
+          "op": "generate",
+          "style": "Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）",
+          "description": "【主体】红色发光矩形门，科技感框架，中间留白。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly）。【强制约束】MUST be on pure white #FFFFFF background. Single icon ONLY. Absolutely NO background scene, NO environment, NO shadows, NO text. Centered, clear edges for extraction.",
+          "cleanResource": true,
+          "model": "workflow",
+          "size": "1k-square",
+          "transparent": true,
+          "url": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/c1a26bfc-b1bb-4057-87b8-da4a6ac45ca8_360869ba-e19c-411f-944d-c00b5f52d70a_ComfyUI_temp_kfnuq_00103_.png",
+          "t": 1773215426
+        }
+      ],
+      "currentVersionIndex": 0,
+      "config": {
+        "currentUrl": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/c1a26bfc-b1bb-4057-87b8-da4a6ac45ca8_360869ba-e19c-411f-944d-c00b5f52d70a_ComfyUI_temp_kfnuq_00103_.png"
+      }
+    },
+    "nf2x1c6k": {
+      "id": "nf2x1c6k",
+      "localPath": "assets/icons/icon_item_barrel.png",
+      "contentHash": "ffcda273000eb146",
+      "originHash": "ffcda273000eb146",
+      "name": "障碍木桶",
+      "description": "【风格】Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）\n\n【尺寸】1024x1024\n\n【背景】透明背景\n\n【描述】【主体】带铁箍的木制水桶。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly）。【强制约束】MUST be on pure white #FFFFFF background. Single icon ONLY. Absolutely NO background scene, NO environment, NO shadows, NO text. Centered, clear edges for extraction.",
+      "createdAt": 1773215427,
+      "versions": [
+        {
+          "op": "generate",
+          "style": "Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）",
+          "description": "【主体】带铁箍的木制水桶。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly）。【强制约束】MUST be on pure white #FFFFFF background. Single icon ONLY. Absolutely NO background scene, NO environment, NO shadows, NO text. Centered, clear edges for extraction.",
+          "cleanResource": true,
+          "model": "workflow",
+          "size": "1k-square",
+          "transparent": true,
+          "url": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/0cb3a420-5dcd-47d5-9bd5-91c04128f183_4d28f790-d083-45bf-94ed-d5e313ba7bb7_ComfyUI_temp_kfnuq_00105_.png",
+          "t": 1773215427
+        }
+      ],
+      "currentVersionIndex": 0,
+      "config": {
+        "currentUrl": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/0cb3a420-5dcd-47d5-9bd5-91c04128f183_4d28f790-d083-45bf-94ed-d5e313ba7bb7_ComfyUI_temp_kfnuq_00105_.png"
+      }
+    },
+    "u05v9ftg": {
+      "id": "u05v9ftg",
+      "localPath": "assets/icons/icon_item_ak47.png",
+      "contentHash": "30ce53d9000ca726",
+      "originHash": "30ce53d9000ca726",
+      "name": "AK47图标",
+      "description": "【风格】Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）\n\n【尺寸】1024x1024\n\n【背景】透明背景\n\n【描述】【主体】AK47步枪图标，金色边框，风格化外形。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly）。【强制约束】MUST be on pure white #FFFFFF background. Single icon ONLY. Absolutely NO background scene, NO environment, NO shadows, NO text. Centered, clear edges for extraction.",
+      "createdAt": 1773215427,
+      "versions": [
+        {
+          "op": "generate",
+          "style": "Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）",
+          "description": "【主体】AK47步枪图标，金色边框，风格化外形。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly）。【强制约束】MUST be on pure white #FFFFFF background. Single icon ONLY. Absolutely NO background scene, NO environment, NO shadows, NO text. Centered, clear edges for extraction.",
+          "cleanResource": true,
+          "model": "workflow",
+          "size": "1k-square",
+          "transparent": true,
+          "url": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/8ba98f79-2996-4499-9a4b-d8fa71028b91_f5cab9e6-ced5-4864-9ef5-1d04200eb977_ComfyUI_temp_kfnuq_00099_.png",
+          "t": 1773215427
+        }
+      ],
+      "currentVersionIndex": 0,
+      "config": {
+        "currentUrl": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/8ba98f79-2996-4499-9a4b-d8fa71028b91_f5cab9e6-ced5-4864-9ef5-1d04200eb977_ComfyUI_temp_kfnuq_00099_.png"
+      }
+    },
+    "46bwtulr": {
+      "id": "46bwtulr",
+      "localPath": "assets/icons/icon_item_flamethrower.png",
+      "contentHash": "7e7df422000a9010",
+      "originHash": "7e7df422000a9010",
+      "name": "喷火器图标",
+      "description": "【风格】Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）\n\n【尺寸】1024x1024\n\n【背景】透明背景\n\n【描述】【主体】喷火器图标，带有火焰符号，橙红色调。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly）。【强制约束】MUST be on pure white #FFFFFF background. Single icon ONLY. Absolutely NO background scene, NO environment, NO shadows, NO text. Centered, clear edges for extraction.",
+      "createdAt": 1773215427,
+      "versions": [
+        {
+          "op": "generate",
+          "style": "Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）",
+          "description": "【主体】喷火器图标，带有火焰符号，橙红色调。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly）。【强制约束】MUST be on pure white #FFFFFF background. Single icon ONLY. Absolutely NO background scene, NO environment, NO shadows, NO text. Centered, clear edges for extraction.",
+          "cleanResource": true,
+          "model": "workflow",
+          "size": "1k-square",
+          "transparent": true,
+          "url": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/3b0db9fb-a97b-4429-b1a8-462de47cc319_388a2b6a-deec-4f0c-8f51-910de8e83fdb_ComfyUI_temp_kfnuq_00109_.png",
+          "t": 1773215427
+        }
+      ],
+      "currentVersionIndex": 0,
+      "config": {
+        "currentUrl": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/3b0db9fb-a97b-4429-b1a8-462de47cc319_388a2b6a-deec-4f0c-8f51-910de8e83fdb_ComfyUI_temp_kfnuq_00109_.png"
+      }
+    },
+    "xjlwtqbt": {
+      "id": "xjlwtqbt",
+      "localPath": "assets/ui/ui_health_bar.png",
+      "contentHash": "dd40bc2b000c39e7",
+      "originHash": "dd40bc2b000c39e7",
+      "name": "血条框架",
+      "description": "【风格】Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）\n\n【尺寸】1024x1024\n\n【背景】透明背景\n\n【描述】【主体】科技感血条空框，灰色与银色质感。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly）。【强制约束】MUST be on pure white #FFFFFF background. Empty UI frame ONLY. Absolutely NO background scene, NO text, NO icons inside, just empty container. Centered, clear edges for extraction.",
+      "createdAt": 1773215427,
+      "versions": [
+        {
+          "op": "generate",
+          "style": "Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）",
+          "description": "【主体】科技感血条空框，灰色与银色质感。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly）。【强制约束】MUST be on pure white #FFFFFF background. Empty UI frame ONLY. Absolutely NO background scene, NO text, NO icons inside, just empty container. Centered, clear edges for extraction.",
+          "cleanResource": true,
+          "model": "workflow",
+          "size": "1k-square",
+          "transparent": true,
+          "url": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/0101b407-39db-403c-b1ce-67a5327e02d4_b9a92a83-dcaa-4b03-979c-bf44016e81f4_ComfyUI_temp_kfnuq_00102_.png",
+          "t": 1773215427
+        }
+      ],
+      "currentVersionIndex": 0,
+      "config": {
+        "currentUrl": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/0101b407-39db-403c-b1ce-67a5327e02d4_b9a92a83-dcaa-4b03-979c-bf44016e81f4_ComfyUI_temp_kfnuq_00102_.png"
+      }
+    },
+    "zcrwnoyn": {
+      "id": "zcrwnoyn",
+      "localPath": "assets/vfx/vfx_muzzle_flash.png",
+      "contentHash": "ca512faa000e31ff",
+      "originHash": "ca512faa000e31ff",
+      "name": "枪口火光",
+      "description": "【风格】Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）\n\n【尺寸】1024x1024\n\n【背景】透明背景\n\n【描述】【主体】黄色与橙色组合的简约枪口闪光特效。【美术风格】Q版3D卡通风格，平面化表现。【强制约束】MUST be on pure white #FFFFFF background. Single effect ONLY. Absolutely NO background scene, NO environment, NO shadows. Centered, clear edges for extraction.",
+      "createdAt": 1773215427,
+      "versions": [
+        {
+          "op": "generate",
+          "style": "Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）",
+          "description": "【主体】黄色与橙色组合的简约枪口闪光特效。【美术风格】Q版3D卡通风格，平面化表现。【强制约束】MUST be on pure white #FFFFFF background. Single effect ONLY. Absolutely NO background scene, NO environment, NO shadows. Centered, clear edges for extraction.",
+          "cleanResource": true,
+          "model": "workflow",
+          "size": "1k-square",
+          "transparent": true,
+          "url": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/09dd6fee-8bbe-447f-acbb-6934e59b78ac_691f36e2-5656-4c4a-911e-b7a61ffcf49e_ComfyUI_temp_kfnuq_00104_.png",
+          "t": 1773215427
+        }
+      ],
+      "currentVersionIndex": 0,
+      "config": {
+        "currentUrl": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/09dd6fee-8bbe-447f-acbb-6934e59b78ac_691f36e2-5656-4c4a-911e-b7a61ffcf49e_ComfyUI_temp_kfnuq_00104_.png"
+      }
+    },
+    "8eoi9tzh": {
+      "id": "8eoi9tzh",
+      "localPath": "assets/vfx/vfx_shield.png",
+      "contentHash": "fc405ef50011d4b9",
+      "originHash": "fc405ef50011d4b9",
+      "name": "护盾光圈",
+      "description": "【风格】Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）\n\n【尺寸】1024x1024\n\n【背景】透明背景\n\n【描述】【主体】蓝色的半透明无敌光圈，科技线条感。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly）。【强制约束】MUST be on pure white #FFFFFF background. Single effect ONLY. Absolutely NO background scene, NO environment, NO shadows. Centered, clear edges for extraction.",
+      "createdAt": 1773215428,
+      "versions": [
+        {
+          "op": "generate",
+          "style": "Q版3D卡通风格，低多边形建模（Low Poly），色彩基调为亮蓝色（友方）、鲜红色（敌方/减益）、明黄色（特效/数值反馈）",
+          "description": "【主体】蓝色的半透明无敌光圈，科技线条感。【美术风格】Q版3D卡通风格，低多边形建模（Low Poly）。【强制约束】MUST be on pure white #FFFFFF background. Single effect ONLY. Absolutely NO background scene, NO environment, NO shadows. Centered, clear edges for extraction.",
+          "cleanResource": true,
+          "model": "workflow",
+          "size": "1k-square",
+          "transparent": true,
+          "url": "https://aigc-1312582670.cos.ap-guangzhou.myqcloud.com/gen_ai_video/images/52ca1142-8da4-48d8-b1be-edcd079555ac_d8e43c23-fa64-49c9-9b7e-b8e9b5e4697b_ComfyUI_temp_kfnuq_00106_.png",
+          "t": 1773215428
+        }
+      ],
+      "currentVersionIndex": 0
+    }
+  },
+  "pathMap": {
+    "assets/characters/char_soldier_blue.png": "31llwoel",
+    "assets/characters/char_enemy_minion_red.png": "kd1dl71x",
+    "assets/characters/char_enemy_boss_tank.png": "8hkymfdr",
+    "assets/characters/char_enemy_boss_giant.png": "0b4wtc2t",
+    "assets/backgrounds/bg_main.jpg": "odwxl5v8",
+    "assets/icons/icon_gate_plus.png": "gecr3xm2",
+    "assets/icons/icon_gate_minus.png": "q8r0uh37",
+    "assets/icons/icon_item_barrel.png": "nf2x1c6k",
+    "assets/icons/icon_item_ak47.png": "u05v9ftg",
+    "assets/icons/icon_item_flamethrower.png": "46bwtulr",
+    "assets/ui/ui_health_bar.png": "xjlwtqbt",
+    "assets/vfx/vfx_muzzle_flash.png": "zcrwnoyn",
+    "assets/vfx/vfx_shield.png": "8eoi9tzh"
+  },
+  "hashMap": {
+    "3baa1626000bbd34": "31llwoel",
+    "5cc424ea000b8d43": "kd1dl71x",
+    "f3f1bcb90011c20c": "8hkymfdr",
+    "f2ce0dd9000f2436": "0b4wtc2t",
+    "3013e6660009a180": "odwxl5v8",
+    "75027e92000c2f8d": "gecr3xm2",
+    "2df6decb00115b91": "q8r0uh37",
+    "ffcda273000eb146": "nf2x1c6k",
+    "30ce53d9000ca726": "u05v9ftg",
+    "7e7df422000a9010": "46bwtulr",
+    "dd40bc2b000c39e7": "xjlwtqbt",
+    "ca512faa000e31ff": "zcrwnoyn",
+    "fc405ef50011d4b9": "8eoi9tzh"
+  }
+}

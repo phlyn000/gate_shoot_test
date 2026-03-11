@@ -1,0 +1,53 @@
+---
+description: GameForge 生成的游戏项目配置
+alwaysApply: true
+---
+
+# GameForge 游戏项目
+
+这是由 GameForge 自动生成的 Phaser 游戏项目。
+
+## 项目信息
+
+- **项目名称**: gate_shoot
+- **游戏类型**: phaser
+- **分辨率**: 720x1280
+- **技术栈**: Phaser 3 + TypeScript + Vite
+
+## 关键文件位置
+
+| 文件 | 说明 |
+|------|------|
+| `docs/proposal.md` | 游戏策划案（核心设计文档） |
+| `src/config/assets.config.json` | 资源配置（定义资源 key 和路径） |
+| `src/config/game.config.json` | 游戏配置（分辨率、场景等） |
+| `public/assets/` | 资源目录（图片、音频等） |
+| `.gameforge/assets.json` | 资源版本管理（历史记录） |
+| `src/scenes/` | 游戏场景代码 |
+| `src/game/` | 游戏核心逻辑 |
+
+## 可用资源统计
+
+  - characters: 4 个
+  - backgrounds: 1 个
+  - icons: 5 个
+  - ui_elements: 1 个
+  - vfx: 2 个
+
+资源文件位于 `public/assets/` 目录下，按类型分类存放。
+
+## 开发规范
+
+1. **资源引用**：使用 `assets.config.json` 中定义的 key 引用资源
+2. **场景开发**：在 `src/scenes/` 目录下创建场景类
+3. **游戏逻辑**：核心玩法放在 `src/game/` 目录
+4. **TypeScript**：使用严格模式，遵循项目 tsconfig 配置
+
+## 如何开始
+
+当用户要求生成或修改游戏代码时：
+
+1. 首先阅读 `@docs/proposal.md` 了解游戏需求
+2. 查看 `@src/config/assets.config.json` 了解可用资源
+3. 参考 `@src/scenes/` 现有场景的代码风格
+4. 使用 `public/assets/` 中的资源实现功能

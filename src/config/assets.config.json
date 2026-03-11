@@ -1,0 +1,25 @@
+{
+  "characters": {
+    "char_soldier_blue": "assets/characters/char_soldier_blue.png",
+    "char_enemy_minion_red": "assets/characters/char_enemy_minion_red.png",
+    "char_enemy_boss_tank": "assets/characters/char_enemy_boss_tank.png",
+    "char_enemy_boss_giant": "assets/characters/char_enemy_boss_giant.png"
+  },
+  "backgrounds": {
+    "bg_main": "assets/backgrounds/bg_main.jpg"
+  },
+  "icons": {
+    "icon_gate_plus": "assets/icons/icon_gate_plus.png",
+    "icon_gate_minus": "assets/icons/icon_gate_minus.png",
+    "icon_item_barrel": "assets/icons/icon_item_barrel.png",
+    "icon_item_ak47": "assets/icons/icon_item_ak47.png",
+    "icon_item_flamethrower": "assets/icons/icon_item_flamethrower.png"
+  },
+  "ui": {
+    "ui_health_bar": "assets/ui/ui_health_bar.png"
+  },
+  "vfx": {
+    "vfx_muzzle_flash": "assets/vfx/vfx_muzzle_flash.png",
+    "vfx_shield": "assets/vfx/vfx_shield.png"
+  }
+}

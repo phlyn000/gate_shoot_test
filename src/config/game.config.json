@@ -1,0 +1,14 @@
+{
+  "title": "gate_shoot",
+  "width": 720,
+  "height": 1280,
+  "orientation": "portrait",
+  "globalStyle": "",
+  "scenes": [
+    "BootScene",
+    "MainScene"
+  ],
+  "physics": {
+    "default": "arcade"
+  }
+}
